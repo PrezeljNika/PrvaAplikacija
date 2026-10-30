@@ -26,3 +26,5 @@ Projekt predstavlja mojo prvo mobilno aplikacijo, izdelano v Android Studiu z up
 2. Izberemo emulator ali povežemo Android napravo.
 3. Kliknemo gumb Run.
 4. Aplikacija se zažene na izbrani napravi.
+
+<img width="190" height="388" alt="image" src="https://github.com/user-attachments/assets/50c00eea-1c59-4d82-9cc6-c4e7d4f2a0d8" />
