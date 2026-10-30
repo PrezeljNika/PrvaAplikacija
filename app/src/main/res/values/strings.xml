@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrvaAplikacija</string>
+        <string name="login">LOG IN</string>
+        <string name="pogoji_uporabe">Strinjam se s pogoji uporabe.</string>
+        <string name="naslov_english">Mobile application!</string>
+        <string name="naslov_slovenscina">Mobilna aplikacija!</string>
+    </resources>
