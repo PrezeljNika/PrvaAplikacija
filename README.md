@@ -1,5 +1,3 @@
-#Prva Android aplikacija
-
 ## Opis projekta
 Projekt predstavlja mojo prvo mobilno aplikacijo, izdelano v Android Studiu z uporabo programskega jezika Java. Namen naloge je spoznati osnovno strukturo Android projekta, izdelavo uporabniškega vmesnika in uporabo osnovnih gradnikov.
 
